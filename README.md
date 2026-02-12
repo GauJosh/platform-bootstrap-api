@@ -1,3 +1,5 @@
+[![CI](https://github.com/GauJosh/platform-bootstrap-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GauJosh/platform-bootstrap-api/actions/workflows/ci.yml) ![Language](https://img.shields.io/badge/language-Python-blue?logo=python&logoColor=white)
+
 # platform-bootstrap-api
 
 A privacy-safe FastAPI service that plans repository bootstrap actions.
